@@ -1,2 +1,14 @@
 # Chat_socket.io
-Chat en temps réel réalisé avec socket.io
+Chat en temps réel réalisé avec socket.io avec nom d'utilisateur et room.  
+
+React / node.js / socket.io  
+
+!(https://zupimages.net/viewer.php?id=21/41/jumr.png)  
+
+##Pour lancer l'application:  
+
+Depuis le dossier server :  
+Tapez la commande suivante : "npm start".  
+
+Depuis le dossier client :  
+Tapez la commande suivante : "npm start".
